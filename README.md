@@ -1,6 +1,8 @@
 # FabricScan Help Desk Assistant — LLMs and Prompt Engineering
 
-**Project 3: AI Product MVP (Team Lab)** — *Introduction to Applied AI*
+**Project 3: AI Product MVP (Team Lab)**
+
+**Team Members: Hassan, Haider, and Huzaifa**
 
 > **Product Overview:** **FabricScan** is an AI industrial textile and fabric defect inspection assistant built for textile mills and garment factories in Pakistan, supporting quality-control (QC) inspectors, line supervisors, and factory managers.
 
